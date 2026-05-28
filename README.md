@@ -1,4 +1,4 @@
 # apnacollege-demo
 This my demo Git repository.
 <br>
-Author - Nikita SJ
+Author - Nikita (Apna College)
